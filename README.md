@@ -30,7 +30,7 @@ This was a hands-on project where I set up a Virtual Machine (VM) in Azure, inst
 ### 2. Using ProtonVPN in the VM:
 - On my personal computer, I signed up for ProtonVPN’s free plan at [ProtonVPN Signup](https://protonvpn.com/signup).  
 - Inside the VM, I downloaded and installed the ProtonVPN client.  
-- After logging in at [ProtonVPN Login](https://protonvpn.com/login), I connected to a server in another country (Japan, in this case).  
+- After logging in at [ProtonVPN Login](https://account.protonvpn.com/login), I connected to a server in another country (Japan, in this case).  
 - Once the VPN was active, I checked [WhatIsMyIPAddress](https://whatismyipaddress.com/) again and recorded the new IP address.  
 - For fun, I visited websites like Google, Disney, and Amazon to see how they adapted to the VPN's server location. The differences were fascinating—some sites displayed in Japanese, others showed prices in different currencies, and the URLs even changed slightly.
 
