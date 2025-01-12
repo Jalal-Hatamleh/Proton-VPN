@@ -10,7 +10,7 @@ This was a hands-on project where I set up a Virtual Machine (VM) in Azure, inst
 - **ProtonVPN**: For masking IP addresses and testing VPN functionality  
 
 ### **Operating System:**
-- Windows 10 (21H2)
+- Windows 10 Pro (Version 22H2)
 
 ---
 
