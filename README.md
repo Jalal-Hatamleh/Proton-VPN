@@ -23,6 +23,8 @@ This was a hands-on project where I set up a Virtual Machine (VM) in Azure, inst
 - Once the VM was ready, I connected to it using Remote Desktop.  
 - From the VM, I checked [WhatIsMyIPAddress](https://whatismyipaddress.com/) again to see its default IP address and noted how it differed from my own machine.  
 
+![screenshot](https://github.com/Jalal-Hatamleh/Proton-VPN/blob/main/images/1.png?raw=true)
+
 ---
 
 ### 2. Using ProtonVPN in the VM:
@@ -30,7 +32,9 @@ This was a hands-on project where I set up a Virtual Machine (VM) in Azure, inst
 - Inside the VM, I downloaded and installed the ProtonVPN client.  
 - After logging in at [ProtonVPN Login](https://protonvpn.com/login), I connected to a server in another country (Japan, in this case).  
 - Once the VPN was active, I checked [WhatIsMyIPAddress](https://whatismyipaddress.com/) again and recorded the new IP address.  
-- For fun, I visited websites like Google, Disney, and Amazon to see how they adapted to the VPN's server location. The differences were fascinating—some sites displayed in Japanese, others showed prices in different currencies, and the URLs even changed slightly.  
+- For fun, I visited websites like Google, Disney, and Amazon to see how they adapted to the VPN's server location. The differences were fascinating—some sites displayed in Japanese, others showed prices in different currencies, and the URLs even changed slightly.
+
+![screenshot](https://github.com/Jalal-Hatamleh/Proton-VPN/blob/main/images/2.png?raw=true)
 
 ---
 
